@@ -43,7 +43,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"Seminarraum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -82,7 +82,7 @@
          "name":"EG 9-12 + Kiosk",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
